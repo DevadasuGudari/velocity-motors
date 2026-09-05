@@ -1,213 +1,53 @@
 # Velocity Motors — Next Generation Driving
 
-A modern, responsive, and premium automotive landing page created for **Velocity Motors**.
-
-The website presents a fictional high-performance vehicle brand through an elegant automotive interface featuring performance statistics, vehicle models, engineering details, craftsmanship, photography, and a private viewing contact form.
-
----
-
-## Live Demo
-
-🚗 **Live Website:**  
-https://velocity-motors-page.netlify.app/
-
----
+A modern, responsive landing page for **Velocity Motors**, showcasing the fictional Velocity V12 through performance specifications, innovative features, a visual gallery, and a contact form.
 
 ## Overview
 
-**Velocity Motors** is a fictional premium automotive brand website designed with a modern luxury aesthetic.
+The Velocity Motors landing page is designed to present a premium automotive brand with a clean, modern, and performance-focused interface.
 
-The project focuses on creating a professional automotive experience using only **HTML5 and CSS3**.
+The page includes:
 
-<<<<<<< HEAD
-The design combines:
-=======
-- Responsive navigation
-- Hero section with vehicle performance highlights
-- Innovative features section
-- Technical specifications comparison
-- Vehicle gallery
-- Contact and test-drive form
-- Social media links
-- Responsive footer
-- Back-to-top button
-- Accessible focus states
-- Reduced-motion support
-- Mobile navigation
->>>>>>> bb2691ece6fc2f5ae1b61226f33537ec4dda1034
+* Responsive navigation
+* Hero section with vehicle performance highlights
+* Innovative features section
+* Technical specifications comparison
+* Vehicle gallery
+* Contact and test-drive form
+* Social media links
+* Responsive footer
+* Back-to-top button
+* Accessible focus states
+* Reduced-motion support
+* Mobile navigation
 
-- Premium dark visual styling
-- Champagne-gold accents
-- Responsive layouts
-- Fixed navigation
-- Full-screen hero presentation
-- Vehicle showcase sections
-- Performance statistics
-- Engineering information
-- Automotive photography
-- Contact and private viewing form
-- CSS animations and transitions
-- Accessibility-focused design
+## Technologies Used
 
-<<<<<<< HEAD
-The website is designed to provide a consistent experience across desktop, tablet, and mobile devices.
-=======
-- **HTML5** — Semantic page structure
-- **CSS3** — Styling, responsive layouts, animations, and transitions
-- **JavaScript** — Interactive functionality
-- **Font Awesome 6.4.0** — Icons
-- **CSS Grid & Flexbox** — Responsive layouts
-- **Responsive Design** — Mobile, tablet, and desktop support
->>>>>>> bb2691ece6fc2f5ae1b61226f33537ec4dda1034
+* **HTML5** — Semantic page structure
+* **CSS3** — Styling, responsive layouts, animations, and transitions
+* **JavaScript** — Interactive functionality
+* **Font Awesome 6.4.0** — Icons
+* **CSS Grid & Flexbox** — Responsive layouts
+* **Responsive Design** — Mobile, tablet, and desktop support
 
----
+## Project Structure
 
-# Features
-
-- Premium automotive landing-page design
-- Fixed navigation header
-- Responsive navigation
-- Full-screen hero section
-- Performance statistics
-- Vehicle model showcase
-- Performance section
-- Engineering section
-- Driver cockpit section
-- Craftsmanship section
-- Responsive vehicle gallery
-- Private viewing section
-- Contact form
-- Responsive footer
-- Smooth scrolling
-- CSS hover effects
-- CSS animations
-- CSS transitions
-- Responsive typography
-- Keyboard focus states
-- Semantic HTML structure
-- Accessibility-friendly form controls
-- Reduced-motion support
-- CSS Grid layouts
-- Flexbox layouts
-- Mobile-responsive design
-
----
-
-# Technologies Used
-
-## HTML5
-
-HTML5 is used to create the semantic structure of the website.
-
-The project uses elements such as:
-
-- `header`
-- `nav`
-- `main`
-- `section`
-- `article`
-- `footer`
-- `form`
-- `label`
-- `input`
-- `textarea`
-- `button`
-
----
-
-## CSS3
-
-CSS3 is used for the complete visual design and responsive behavior.
-
-CSS is responsible for:
-
-- Layout
-- Colors
-- Typography
-- Spacing
-- Responsive design
-- Grid layouts
-- Flexbox layouts
-- Animations
-- Transitions
-- Hover effects
-- Fixed navigation
-- Background images
-- Gradients
-- Shadows
-- Accessibility states
-
----
-
-## Layout Technologies
-
-The project uses:
-
-- CSS Grid
-- CSS Flexbox
-- CSS Custom Properties
-- CSS Media Queries
-- CSS Animations
-- CSS Transitions
-
----
-
-# Project Structure
-
-```text
 velocity-motors/
 │
 ├── index.html
-<<<<<<< HEAD
-└── style.css
-=======
 ├── style.css
 ├── script.js
 │
-├── images/
-│   ├── car.jpg
-│   ├── photo-1492144534655-ae79c964c9d7.jpg
-│   ├── photo-1551830820-330a71b99659.jpg
-│   ├── photo-1544636331-e26879cd4d9b.jpg
-│   ├── photo-1542282088-fe8426682b8f.jpg
-│   ├── photo-1494976388531-d1058494cdd8.jpg
-│   └── pexels-thekameragrapher-33253286.jpg
-│
-└── screenshots/
-    ├── home.png
-    ├── features.png
-    ├── specifications.png
-    ├── gallery.png
-    ├── contact.png
+└── images/
+├── car.jpg
+├── photo-1492144534655-ae79c964c9d7.jpg
+├── photo-1551830820-330a71b99659.jpg
+├── photo-1544636331-e26879cd4d9b.jpg
+├── photo-1542282088-fe8426682b8f.jpg
+├── photo-1494976388531-d1058494cdd8.jpg
+└── pexels-thekameragrapher-33253286.jpg
 
 > The README intentionally contains no image previews.
-
-## Live Demo
-
-[**View Live Demo →**](https://velocity-motors-page.netlify.app/)
-
-## Screenshots
-
-### Home / Hero Section
-
-![Velocity Motors Home](./images/screenshots/home.png)
-
-### Innovative Features
-
-![Velocity Motors Features](./images/screenshots/features.png)
-
-### Technical Specifications
-
-![Velocity Motors Specifications](./images/screenshots/specifications.png)
-
-### Vehicle Gallery
-
-![Velocity Motors Gallery](./images/screenshots/gallery.png)
-
-### Contact Section
-
-![Velocity Motors Contact](./images/screenshots/contact.png)
-
 
 ## Sections
 
@@ -215,11 +55,11 @@ velocity-motors/
 
 The fixed navigation bar provides quick access to:
 
-- Home
-- Features
-- Specifications
-- Gallery
-- Contact
+* Home
+* Features
+* Specifications
+* Gallery
+* Contact
 
 A mobile navigation menu is provided for smaller screens.
 
@@ -231,8 +71,8 @@ The hero section introduces the Velocity V12 with the headline:
 
 It highlights key performance figures:
 
-- **Top Speed:** 320 km/h
-- **Horsepower:** 720 HP
+* **Top Speed:** 320 km/h
+* **Horsepower:** 720 HP
 
 It also includes calls to action for booking a test drive and exploring models.
 
@@ -240,12 +80,12 @@ It also includes calls to action for booking a test drive and exploring models.
 
 Six feature cards highlight the vehicle's technology:
 
-- AI-Powered Driving
-- Extended Range
-- Aerodynamic Design
-- Autonomous Parking
-- Smart Interior
-- Advanced Safety
+* AI-Powered Driving
+* Extended Range
+* Aerodynamic Design
+* Autonomous Parking
+* Smart Interior
+* Advanced Safety
 
 ### 4. Technical Specifications
 
@@ -268,20 +108,20 @@ The gallery provides a responsive grid for displaying vehicle photography, inclu
 
 The contact section contains:
 
-- Showroom information
-- Sales phone number
-- Sales email
-- Vehicle-interest selector
-- Customer message form
-- Social media links
+* Showroom information
+* Sales phone number
+* Sales email
+* Vehicle-interest selector
+* Customer message form
+* Social media links
 
 The form collects:
 
-- Full name
-- Email address
-- Phone number
-- Vehicle interest
-- Message
+* Full name
+* Email address
+* Phone number
+* Vehicle interest
+* Message
 
 ## Responsive Design
 
@@ -289,38 +129,38 @@ The layout adapts to different screen sizes using CSS media queries.
 
 ### Mobile
 
-- Mobile navigation menu
-- Single-column feature layout
-- Single-column gallery
-- Stacked contact section
-- Stacked hero buttons
+* Mobile navigation menu
+* Single-column feature layout
+* Single-column gallery
+* Stacked contact section
+* Stacked hero buttons
 
 ### Tablet
 
-- Two-column feature grid
-- Two-column gallery
-- Three-column footer links
+* Two-column feature grid
+* Two-column gallery
+* Three-column footer links
 
 ### Desktop
 
-- Full desktop navigation
-- Three-column feature grid
-- Three-column gallery
-- Two-column contact layout
-- Horizontal footer layout
+* Full desktop navigation
+* Three-column feature grid
+* Three-column gallery
+* Two-column contact layout
+* Horizontal footer layout
 
 ## Accessibility
 
 The page includes several accessibility considerations:
 
-- Semantic HTML elements
-- Descriptive image alt attributes
-- ARIA labels for navigation and buttons
-- Keyboard focus states using \:focus-visible
-- Hidden table caption for screen readers
-- Proper form labels
-- aria-expanded and aria-controls for mobile navigation
-- Reduced-motion support using prefers-reduced-motion
+* Semantic HTML elements
+* Descriptive image alt attributes
+* ARIA labels for navigation and buttons
+* Keyboard focus states using :focus-visible
+* Hidden table caption for screen readers
+* Proper form labels
+* aria-expanded and aria-controls for mobile navigation
+* Reduced-motion support using prefers-reduced-motion
 
 ## Color Palette
 
@@ -368,9 +208,9 @@ Update the Velocity Motors name and logo inside index.html.
 
 Change the CSS variables at the beginning of style.css:
 
-\:root {
-\--primary: #2563eb;
-\--secondary: #1e40af;
+:root {
+--primary: #2563eb;
+--secondary: #1e40af;
 }
 
 ### Vehicle Information
@@ -389,29 +229,29 @@ Replace the files in the images/ directory with your own vehicle photography whi
 
 The page is designed for modern browsers that support:
 
-- HTML5
-- CSS Grid
-- CSS Flexbox
-- CSS Custom Properties
-- CSS Media Queries
-- \:focus-visible
-- prefers-reduced-motion
+* HTML5
+* CSS Grid
+* CSS Flexbox
+* CSS Custom Properties
+* CSS Media Queries
+* :focus-visible
+* prefers-reduced-motion
 
 ## Future Improvements
 
 Potential enhancements include:
 
-- Functional test-drive booking
-- Working contact-form backend
-- Vehicle model selection
-- Interactive vehicle configurator
-- Lightbox gallery
-- Customer testimonials
-- Pricing section
-- Newsletter subscription
-- Dark/light theme switcher
-- SEO metadata and Open Graph tags
-- Form validation and success notifications
+* Functional test-drive booking
+* Working contact-form backend
+* Vehicle model selection
+* Interactive vehicle configurator
+* Lightbox gallery
+* Customer testimonials
+* Pricing section
+* Newsletter subscription
+* Dark/light theme switcher
+* SEO metadata and Open Graph tags
+* Form validation and success notifications
 
 ## License
 
@@ -422,4 +262,3 @@ This project is intended as a landing-page/demo project. Add an appropriate lice
 Built as a modern automotive landing-page concept for **Velocity Motors**.
 
 Icons are provided through **Font Awesome**.
->>>>>>> bb2691ece6fc2f5ae1b61226f33537ec4dda1034
